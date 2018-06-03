@@ -852,6 +852,16 @@
     "repo": "https://github.com/purescript/purescript-unfoldable.git",
     "version": "v4.0.0"
   },
+  "uint": {
+    "dependencies": [
+      "maybe",
+      "math",
+      "quickcheck-laws",
+      "psci-support"
+    ],
+    "repo": "https://github.com/zaquest/purescript-uint.git",
+    "version": "v4.0.0"
+  },
   "unsafe-coerce": {
     "dependencies": [],
     "repo": "https://github.com/purescript/purescript-unsafe-coerce",
